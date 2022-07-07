@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cardView" parent="CardView">
+    </style>
+    <style name="cardView.ligth" parent="CardView">
+        <item name="cardBackgroundColor">@color/purple900</item>
+    </style>
+    <style name="cardView.dark" parent="CardView">
+        <item name="cardBackgroundColor">@color/purple300</item>
+    </style>
+
+</resources>
